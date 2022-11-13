@@ -14,4 +14,4 @@ My previous research focused on developing cell type similarity tree based on Ma
 
 Besides applying Statistics in Biology, I am interested in model interpretability and robustness. I conducted research in Symbolic Regression to predict material’s fracture energy with interpretable geometric features to overcome the interpretability issues in CNN.  
 
-Here is a list of Machine Learning projects I did as an intern: [Click Sequence Clustering](https://github.com/Sylviama1026/Click_Sequence_Clustering), [Sales Lead Score Model](https://github.com/Sylviama1026/Lead_Score_Model), [Struggling to Adulthood: Sentiment Analysis and Topic Modeling for Reddit](https://github.com/Sylviama1026/Onomy)
+Here is a list of Machine Learning projects I did as an intern: [Click Sequence Clustering](https://github.com/Sylviama1026/Click_Sequence_Clustering), [Sales Lead Score Model](https://github.com/Sylviama1026/Lead_Score_Model), [Reddit Sentiment Analysis and Topic Modeling](https://github.com/Sylviama1026/Onomy)
