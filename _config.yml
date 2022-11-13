@@ -11,7 +11,7 @@ title                    : "Shiyu Ma"
 title_separator          : "-"
 name                     : &name "Shiyu Ma"
 description              : &description "4th year Statistics and Math/Econ major at UCLA"
-url                      : https://sylviama1026.github.io # the base hostname & protocol for your site e.g. "https://sylviama1026.github.io"
+url                      : https://sylviama1026.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sylviama1026/sylviama1026.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Shiyu Ma"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "4th year Statistics and Math/Econ major at UCLA"
   location         : "Los Angeles, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sylviama1026"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
