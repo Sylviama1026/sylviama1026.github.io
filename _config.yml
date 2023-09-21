@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shiyu Ma"
 title_separator          : "-"
 name                     : &name "Shiyu Ma"
-description              : &description "4th year Statistics and Math/Econ major at UCLA"
+description              : &description "1st year Master student in Data Science at Harvard"
 url                      : https://sylviama1026.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sylviama1026/sylviama1026.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shiyu Ma"
   avatar           : "Shiyu_Ma_Profile.png"
-  bio              : "4th year Statistics and Math/Econ major at UCLA"
-  location         : "Los Angeles, CA"
+  bio              : "1st year Master Student in Data Science at Harvard"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : 
   googlescholar    : 
